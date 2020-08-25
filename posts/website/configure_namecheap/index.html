@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>GitHub For Babies- Part 2</title>
+    <title>Namecheap Domain to GitHub</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -92,15 +92,12 @@ Habib&#39;s Site</a>
   
   
   
-    
-    
-  
   
     
     <li>
-      <i class="fas fa-minus-circle"></i><a class="active" href="/posts/github/">GitHub Posts</a>
+      <i class="fas fa-plus-circle"></i><a class="" href="/posts/github/">GitHub Posts</a>
       
-      <ul class="active">
+      <ul class="">
         
   
   
@@ -115,12 +112,9 @@ Habib&#39;s Site</a>
   
   
   
-    
-    
-  
   
     
-    <li><a class="active" href="/posts/github/github_for_babies_2/">GitHub Part--2</a></li>
+    <li><a class="" href="/posts/github/github_for_babies_2/">GitHub Part--2</a></li>
   
 
   
@@ -141,20 +135,26 @@ Habib&#39;s Site</a>
   
   
   
+    
+    
+  
   
     
     <li>
-      <i class="fas fa-plus-circle"></i><a class="" href="/posts/website/">Website Domain</a>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/posts/website/">Website Domain</a>
       
-      <ul class="">
+      <ul class="active">
         
   
   
   
   
+    
+    
+  
   
     
-    <li><a class="" href="/posts/website/configure_namecheap/">Custom-Domain-GitHub</a></li>
+    <li><a class="active" href="/posts/website/configure_namecheap/">Custom-Domain-GitHub</a></li>
   
 
 
@@ -177,7 +177,7 @@ Habib&#39;s Site</a>
   <div class="content">
     <div class="container p-0 read-area">
       
-      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(https://HabibRh26.github.io/images/posts/GitHub_posts/post2/git-cover-2.jpg);'>
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(https://HabibRh26.github.io/images/posts/Website/namecheap-cover.jpg);'>
       </div>
   
       
@@ -185,57 +185,34 @@ Habib&#39;s Site</a>
         <div class="author-profile ml-auto align-self-lg-center">
           <img class="rounded-circle" src='/images/habib.jpg'/>
           <h5 class="author-name">Md.Habibur Rahman</h5>
-          <p>June 15, 2020</p>
+          <p>June 17, 2020</p>
         </div>
   
         <div class="title">
-          <h1>GitHub For Babies- Part 2</h1>
+          <h1>Namecheap Domain to GitHub</h1>
         </div>
   
         <div class="post-content" id="post-content">
-          <p>Welcome back to Part 2 of the GitHub series. Now, we create a text file named <code>index.txt</code> and add a line in the text file for example <code>print(“hello!”)</code>. Now perform the previous command again:
+          <p>GitHub provides you the chance to host your website via <code>username.github.io</code> domain. But if you have a custom domain then you can also configure that with GitHub. Today, I&rsquo;m about to show you how you can add your <strong>Namecheap</strong> domain to GitHub. If you have not any Namecheap domain then you certainly can have for free like I got. Just apply to <a href="https://education.github.com/pack">GitHub student dev</a> pack and grab one. Okay, first thing first. First you have to create an account in Namecheap. I am assuming that you already hosted your site in GitHub. Now, open your home page in Namecheap. You&rsquo;ll have a page like below.
 </br></p>
-<pre><code>git status
-</code></pre>
-<p>After this command, It will display some message stating <code>untracked files</code> meaning that some changes have been made to this folder which is not tracked by git yet and it is red marked.
-<br>
-</br></p>
-<p><img src="/images/posts/GitHub_posts/post2/img1.png" alt="img1"></p>
+<p><img src="/images/posts/Website/img1.png" alt="img1"></p>
 </br>
-<p>Now, we have to upload our updated work to the GitHub online repository. Before that, We have to understand some concepts.
+Next, click `manage` to go to the next page. There, after scrolling a bit, you'll get a section like below. Select `Namecheap BasicDNS` from there.
 </br>
-Imagine you are in a super shop where you have to choose the items you like by visiting rows and put the items in the cart. Then finally you have to come back to the counter and pay the price. The cart used here can be called a staging area in comparison to the GitHub concept. Anything you want to pick for buying has to put it in the cart and then you can pay to the counter. Similarly, any file you changed needs to be put in the cart or <code>staging area</code> before you upload it in the GitHub repository. The concept of putting things in the <code>staging area</code> or cart is called Commit and before putting things in the cart you need to choose and choosing the item or file which is called <code>add</code> in terms of git.
-</br></p>
-<p><img src="/images/posts/GitHub_posts/post2/img2.png" alt="img2"></p>
-<br>
-So, we can say there are 3 prerequisites to upload a file to a GitHub remote repository —
+<p><img src="/images/posts/Website/img2.png" alt="img2"></p>
 </br>
-1. Initialize (.git folder) first. <br>
-2. Adding the files to the cart(staging area) and <br>
-3. Uploading(pushing) the file to a remote repository <br>
-<p>As we cloned the repository so, it has been already initialized. The next thing we need to do is choosing the file. We have only one file to choose this time but if we have multiple files and want to add all those at a time we can follow the below command:</p>
-<pre><code>git add .
-</code></pre>
-<p>Now that we’ve added(selected) the specific files where the update took place next we have to put the selected item(file) into cart(staging area) which is called <code>commit</code>.The command is given below:</p>
-<pre><code>git commit -m “new line added”
-</code></pre>
-<p>Here, the text within the quotes will be anything related to the work that has been done which helps the user and teammates to understand the changes.
+In that page, at the top click to `Advanced DNS` tab. You will have some records field to add there. Click the `Add New Record` button and Add 5 records like the image below:
 </br>
-The final step is to upload our work to the GitHub online repository. To do this, the command is:</p>
-<pre><code>git push
-</code></pre>
-<p>Here, push is the word similar to upload. After this command, if we refresh our GitHub page, we will see a full copy uploaded to the online repository.
+<p><img src="/images/posts/Website/img3.png" alt="img3"></p>
 </br>
-That&rsquo;s all for today. Thanks for being with me. You can head over to <a href="https://www.habib25cseju.me/posts/github/github_for_babies_3/">Part 3 of this series</a>.
-</br>
-<strong>P.S</strong>- Cover Image credit goes to <a href="https://unsplash.com/">Unsplash</a></p>
+Select `CNAME record` in the first column of row 1 and select `A Record` for the rest. In column 3 of the first row(CNAME record), Instead of `HabibRh26.github.io`(which is my repo name where I hosted my site), use your's and select `Automatic` for column 4 entry. Next, you have to add 4 entries where you have to choose `@` for column 2 entry, distinct IP address(for GitHub) for column 3 entry, and `Automatic` for the last column. Use the IP addresses same as to me or you can search in Google. Now, you are almost done. Just go to the GitHub Repo where you hosted your site. Select the `settings` tab at the top right keep scrolling until you find the box `Custom domain`. Just add your domain that you got from Namecheap. Don't forget to put `www` before the domain. So, It'd be like this for example- www.username.me. Click `Save` and `Enforce HTTPS`. Congratulations! You're done. Go to your domain URL and Enjoy!. Warning! It may take 24 hrs for GitHub to reflect the changes you've made. So, be patient. Be amazed at your personal site. 😁
 
         </div>
   
         
         
           <div class="btn-improve-page">
-              <a href="https://github.com/HabibRh26/HabibRh26.github.io/edit/master/content/posts/GitHub/GitHub_for_Babies_2.md">
+              <a href="https://github.com/HabibRh26/HabibRh26.github.io/edit/master/content/posts/Website/configure_namecheap.md">
                 <i class="fas fa-code-branch"></i>
                 Improve This Page
               </a>
@@ -250,13 +227,15 @@ That&rsquo;s all for today. Thanks for being with me. You can head over to <a hr
   
 
   
+
+  
     
       
       <div class="col-md-6 previous-article">
-        <a href="/posts/website/configure_namecheap/" class="btn btn-outline-info">
+        <a href="/posts/github/github_for_babies_3/" class="btn btn-outline-info">
           <span><i class="fas fa-chevron-circle-left"></i> Prev</span>
           <br />
-          <span>Namecheap Domain to GitHub</span>
+          <span>GitHub For Babies- Part 3</span>
         </a>
       </div>
       
@@ -270,16 +249,14 @@ That&rsquo;s all for today. Thanks for being with me. You can head over to <a hr
           
         
         <div class="col-md-6 next-article">
-          <a href="/posts/github/github_for_babies_1/" class="btn btn-outline-info">
+          <a href="/posts/github/github_for_babies_2/" class="btn btn-outline-info">
             <span>Next <i class="fas fa-chevron-circle-right"></i></span>
             <br />
-            <span>GitHub For Babies</span>
+            <span>GitHub For Babies- Part 2</span>
           </a>
         </div>
       
     
-  
-
   
 
   
