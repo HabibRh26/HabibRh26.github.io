@@ -1,1 +1,2 @@
-# HabibRh26.github.io
+# staticSite
+contains hugo files
