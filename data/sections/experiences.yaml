@@ -10,6 +10,20 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Synesis IT
+    url: "https://synesisit.com.bd/"
+    location: Kawran Bazar, Dhaka-1215
+    overview: "Synesis IT is one of the biggest tech companies in Bangladesh who mostly provide softwares for the govt of the Bangladesh, I started my journey as a **Trainee Programmer** in the **eReturn** project and later promoted to the **Programmer** position. This is a large scale project built following microservices architecture using spring boot, angular and MS SQL server."
+  positions:
+  - designation: Programmer
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Developed REST APIs using spring boot for Online Tax Filing Govt project(eReturn).
+    - Synchronized the backend api changes to the frontend in angular.
+    - Resolved PDF compatibility issues accross different web browsers such as firefox, google chrome etc.
+    - Deployed frontend and backend services.
+- company:
     name: First Author 
     url: ""
     location: Jahangirnagar University 
@@ -65,22 +79,6 @@ I helped them to learn Maths,Physics,Chemistry,Information Communication Technol
     - "Was a **Question Setter** and **Moderator** at **Quiz Competition** of **JU CSE FEST'19**"
     - "Supervised **Food Distribution** procedure in **JU CSE FEST'19** for almost **170** participants"
     - "Worked at the maintenance of Logistics for **Gaming Competition** of **JU CSE FEST'19** sponsored by **Gigabyte**"
-  
-    
-- company:
-    name: Synesis IT
-    url: "https://synesisit.com.bd/"
-    location: Kawran Bazar, Dhaka-1215
-    overview: "Synesis IT is one of the biggest tech companies in Bangladesh who mostly provide softwares for the govt of the Bangladesh, I started my journey as a **Trainee Programmer** in the **eReturn** project and later promoted to the **Programmer** position. This is a large scale project built following microservices architecture using spring boot, angular and MS SQL server."
-  positions:
-  - designation: Programmer
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Developed REST APIs using spring boot for Online Tax Filing Govt project(eReturn).
-    - Synchronized the backend api changes to the frontend in angular.
-    - Resolved PDF compatibility issues accross different web browsers such as firefox, google chrome etc.
-    - Deployed frontend and backend services.
 - company:
     name: EMK Center
     url: ""
