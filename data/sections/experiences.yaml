@@ -78,9 +78,9 @@ I helped them to learn Maths,Physics,Chemistry,Information Communication Technol
     end: Jan 2016
     responsibilities:
     - Developed REST APIs using spring boot for Online Tax Filing Govt project(eReturn).
-    - help them fixing the bugs
-    - assist them in collaboration.
-    - motivate them.
+    - Synchronized the backend api changes to the frontend in angular.
+    - Resolved PDF compatibility issues accross different web browsers such as firefox, google chrome etc.
+    - Deployed frontend and backend services.
 - company:
     name: EMK Center
     url: ""
