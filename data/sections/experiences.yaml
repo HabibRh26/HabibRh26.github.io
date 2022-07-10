@@ -28,9 +28,9 @@ experiences:
     url: "https://ju-data-mining-research-group.netlify.app/"
     location: Jahangirnagar University 
     # company overview
-    overview: "I was an active researcher of **JU DATA MINING RESEARCH GROUP** under the supervison of Dr Md Musfique Anwar. My research contribution includes one conference paper titled **Modeling Topic Specific Credibility in Twitter Based on Structural and Attribute Properties** (20th International Conference on Hybrid Intelligent Systems (HIS 2020) online, Dec 14-16, 2020, https://doi.org/10.1007/978-3-030-73050-5_57), one short paper titled **Modeling Trustworthiness of a Topic based on Structural Properties
-in Twitter** (Oral presentation in IEEE International Symposium on Technology and Society 2020, 12-15 November, 2020, Arizona State, USA)
-one journal paper (Q3/Q4) titled **Modeling Information Credibility in Time-Specific Online Social Media based on Structural and Attribute Properties** (http://www.mirlabs.org/ijcisim/regular_papers_2021/IJCISIM_27.pdf)."
+    overview: "I was an active researcher of **JU DATA MINING RESEARCH GROUP** under the supervison of Dr Md Musfique Anwar. My research contribution includes one short paper titled **Modeling Trustworthiness of a Topic based on Structural Properties
+in Twitter** (Oral presentation in IEEE International Symposium on Technology and Society 2020, 12-15 November, 2020, Arizona State, USA), one conference paper titled **Modeling Topic Specific Credibility in Twitter Based on Structural and Attribute Properties** (20th International Conference on Hybrid Intelligent Systems (HIS 2020) online, Dec 14-16, 2020, https://doi.org/10.1007/978-3-030-73050-5_57),
+one journal (Q3/Q4) titled **Modeling Information Credibility in Time-Specific Online Social Media based on Structural and Attribute Properties** (http://www.mirlabs.org/ijcisim/regular_papers_2021/IJCISIM_27.pdf)."
   
   positions:
   - designation: Research Assistant
@@ -39,30 +39,30 @@ one journal paper (Q3/Q4) titled **Modeling Information Credibility in Time-Spec
     
     responsibilities:
 
-    -  Emailing professors to collect the dataset
-    -  Learning helpful language **(Python)** and using the right package **(Scikit-learn)**
-    -  Generate results and analyze them
-    -  Write the research paper and cross checking the citation
-- company:
-    name: Private Tutor
-    url: ""
-    location: Dhaka 
+    -  Emailing professors to collect the dataset.
+    -  Learning necessary tools **(Python), Scikit-learn etc.).**
+    -  Generate results and analyze them.
+    -  Write the research paper and cross checking the citation.
+#- company:
+#   name: Private Tutor
+#   url: ""
+#   location: Dhaka 
     # company overview
-    overview: "During my undergrad, I started working as a **Private Tutor**(part-time) and taught a lot of students from Grade 4 to upto University Admission Candidate.
-I helped them to learn Maths,Physics,Chemistry,Information Communication Technology and English.I enjoy sharing my knowledge with others.I love to explain topics intuitively with relevant practical scenario so that It gets easier to understand and remember."
-  positions:
-  - designation: Teaching Experience
-    start: March 2016
+#   overview: "During my undergrad, I started working as a **Private Tutor**(part-time) and taught a lot of students from Grade 4 to upto University Admission Candidate.
+# I helped them to learn Maths,Physics,Chemistry,Information Communication Technology and English.I enjoy sharing my knowledge with others.I love # to explain topics intuitively with relevant practical scenario so that It gets easier to understand and remember."
+#  positions:
+#  - designation: Teaching Experience
+#    start: March 2016
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+#     end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    responsibilities: 
+#    responsibilities: 
 
-    - Make Students understand the concept of the lesson. 
-    - Assist them in completing the Home Tasks.
-    - Find out their mistakes and help them recovering it.
-    - Share useful tips and tricks to crack the examination smoothly
-    - Support as a friend,inspire them and sometimes counsel them in case of uncertainity.
+#    - Make Students understand the concept of the lesson. 
+#    - Assist them in completing the Home Tasks.
+#    - Find out their mistakes and help them recovering it.
+#    - Share useful tips and tricks to crack the examination smoothly
+#    - Support as a friend,inspire them and sometimes counsel them in case of uncertainity.
 
 
 - company:
