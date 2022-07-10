@@ -24,16 +24,16 @@ experiences:
     - Resolved PDF compatibility issues accross different web browsers such as firefox, google chrome etc.
     - Deployed frontend and backend services.
 - company:
-    name: First Author 
+    name: JU DATA MINING RESEARCH GROUP
     url: ""
     location: Jahangirnagar University 
     # company overview
     overview: "My undergrad thesis titled **A  Gaussian  Process  Kernel  for  predicting Epidemiology of Skin Cancer** is a **Machine Learning** focused research project where we developed a novel kernel combination using GPR to predict the **Skin Cancer Epidemiology up to the year 2025**. I am also working on another research project about **Information Credibility on Social Media**."
   
   positions:
-  - designation: Research Experience
-    start: Feb 2020
-    end : Aug 2020
+  - designation: Research Assistant
+    start: Aug 2020
+    end : Sept 2021
     
     responsibilities:
 
