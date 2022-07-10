@@ -25,10 +25,12 @@ experiences:
     - Deployed frontend and backend services.
 - company:
     name: JU DATA MINING RESEARCH GROUP
-    url: ""
+    url: "https://ju-data-mining-research-group.netlify.app/"
     location: Jahangirnagar University 
     # company overview
-    overview: "My undergrad thesis titled **A  Gaussian  Process  Kernel  for  predicting Epidemiology of Skin Cancer** is a **Machine Learning** focused research project where we developed a novel kernel combination using GPR to predict the **Skin Cancer Epidemiology up to the year 2025**. I am also working on another research project about **Information Credibility on Social Media**."
+    overview: "I was an active researcher of **JU DATA MINING RESEARCH GROUP** under the supervison of Dr Md Musfique Anwar. My research contribution includes one conference paper titled **Modeling Topic Specific Credibility in Twitter Based on Structural and Attribute Properties** (20th International Conference on Hybrid Intelligent Systems (HIS 2020) online, Dec 14-16, 2020, https://doi.org/10.1007/978-3-030-73050-5_57), one short paper titled **Modeling Trustworthiness of a Topic based on Structural Properties
+in Twitter** (Oral presentation in IEEE International Symposium on Technology and Society 2020, 12-15 November, 2020, Arizona State, USA)
+one journal paper (Q3/Q4) titled **Modeling Information Credibility in Time-Specific Online Social Media based on Structural and Attribute Properties** (http://www.mirlabs.org/ijcisim/regular_papers_2021/IJCISIM_27.pdf)."
   
   positions:
   - designation: Research Assistant
@@ -37,10 +39,10 @@ experiences:
     
     responsibilities:
 
-    - "Emailing professors to collect the dataset"
-    - "Learning helpful language **(Python)** and using the right package **(Scikit-learn)**"
-    - "Generate results and analyze them"
-    - "Write the research paper and cross checking the citation"
+    -  Emailing professors to collect the dataset
+    -  Learning helpful language **(Python)** and using the right package **(Scikit-learn)**
+    -  Generate results and analyze them
+    -  Write the research paper and cross checking the citation
 - company:
     name: Private Tutor
     url: ""
